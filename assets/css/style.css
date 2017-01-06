@@ -1,0 +1,70 @@
+body
+{
+ 
+  	font-family: helvetica,arial;
+  	background: linear-gradient(to right,#818181,#ac8274,#988274);
+
+}
+
+.jumbotron
+{
+		background: linear-gradient(to right,#818181,#ac8274,#988274);
+}
+
+
+h2
+{
+	color: #FFBD28;
+	font-weight: bold;
+	text-shadow: 1.2px 1.2px #818181;
+	outline-style: dashed;
+    outline-color: #d0a6cf;
+    outline-width: thick;
+    font-family: "Trebuchet MS" "Arial Black" sans-serif;
+}
+h1
+{
+	font-weight: bold;
+	color: #ff9174;
+}
+p
+{
+	font-family:arial;
+	font-size: 14px;
+}
+/* visited link */
+	a:visited 
+	{
+    		color: #988274;
+			
+	}
+
+
+#kegiatan
+{
+	outline-style: dashed;
+    outline-color: #d0a6cf;
+    outline-width: thick;
+}
+
+.navbar
+{
+background-color: #988274;
+
+}
+
+.container
+{
+	color: #fff;
+}
+
+.navbar-inverse .navbar-brand , .navbar-inverse .navbar-nav>li>a 
+{
+    color: #000;}
+
+
+    .btn-primary {
+    color: #fff;
+    background-color: #FFBD28;
+    border-color: #fff;}
+
