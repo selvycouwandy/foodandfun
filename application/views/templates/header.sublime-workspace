@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"FONT",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"BACK",
+				"background-color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"backgr",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/foodandfun/assets/css/style.css",
+		"/C/xampp/htdocs/project/application/views/pendaftaran.php",
+		"/C/xampp/htdocs/foodandfun/application/views/templates/header.php",
+		"/C/xampp/htdocs/foodnfun/assets/css/style.css",
+		"/C/xampp/htdocs/foodandfun/application/views/pendaftaran.php",
+		"/C/xampp/htdocs/foodandfun/assets/css/agency.css",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/finalweb/index.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/finalweb/informasi.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/finalweb/resep.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/finalweb/pendaftaran.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/finalweb/kontak.html",
+		"/C/xampp/htdocs/foodandfun/application/views/resep.php",
+		"/C/xampp/htdocs/foodandfun/application/views/index.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/mid_ukm/example/offcanvas/formulirpendaftaran.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/mid_ukm/example/offcanvas/index.html",
+		"/C/xampp/htdocs/project/application/controllers/Pendaftaran",
+		"/C/xampp/htdocs/project/application/controllers/Pendaftaran.php",
+		"/C/xampp/htdocs/project/application/controllers/index.html",
+		"/C/xampp/htdocs/project/application/controllers/Resep.php",
+		"/C/xampp/htdocs/project/application/models/pendaftaran_model.php",
+		"/C/Users/TOSHIBA SATELLITE/Documents/GitHub/PWEB161_51014022/mid_ukm/example/offcanvas/index.html",
+		"/C/xampp/htdocs/foodnfun/application/views/index.html",
+		"/C/xampp/htdocs/project/application/config/database.php",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/.htaccess",
+		"/C/xampp/htdocs/project/application/views/home.php",
+		"/C/xampp/htdocs/project/application/config/routes.php",
+		"/C/xampp/htdocs/project/application/controllers/Home.php",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/mid/docs/_layouts/default.html",
+		"/C/xampp/htdocs/project/application/views/resep.php",
+		"/C/xampp/htdocs/project/application/views/templates/nav.php",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/mid_ukm/example/offcanvas/formulirresep.html",
+		"/C/xampp/htdocs/project1/application/config/routes.php",
+		"/C/xampp/htdocs/project1/application/views/templates/nav.php",
+		"/C/xampp/htdocs/project1/application/views/home.php",
+		"/C/xampp/htdocs/project1/application/controllers/Home.php",
+		"/C/xampp/htdocs/project1/application/views/templates/footer.php",
+		"/C/xampp/htdocs/project1/application/views/templates/header.php",
+		"/G/project lain/application/config/config.php",
+		"/G/K U L I A H A N/project1/application/config/routes.php",
+		"/G/K U L I A H A N/project/application/views/home.php",
+		"/G/K U L I A H A N/project/application/config/routes.php",
+		"/G/K U L I A H A N/project/application/views/templates/nav.php",
+		"/G/K U L I A H A N/project/application/controllers/Home.php",
+		"/G/K U L I A H A N/project/application/views/templates/footer.php",
+		"/G/K U L I A H A N/project/application/views/templates/header.php",
+		"/G/K U L I A H A N/mid_ukm/index.html",
+		"/C/xampp/htdocs/project/assets/homepage.php",
+		"/C/Users/TOSHIBA SATELLITE/Documents/GitHub/PWEB161_51014022/tugas5/application/config/routes.php",
+		"/C/Users/TOSHIBA SATELLITE/Documents/GitHub/PWEB161_51014022/mid_ukm/example/offcanvas/homepage.php",
+		"/C/xampp/htdocs/project/formulirpendaftaran.html",
+		"/C/xampp/htdocs/project/formulirresep.html",
+		"/C/xampp/htdocs/tugas5/application/config/routes.php",
+		"/C/xampp/htdocs/tugas5/application/controllers/Resep.php",
+		"/C/xampp/htdocs/tugas5/application/views/biodata.php",
+		"/C/xampp/htdocs/tugas5/application/views/resep.php",
+		"/C/xampp/htdocs/tugas5/application/views/cerita.php",
+		"/C/xampp/htdocs/tugas5/application/views/ukm.php",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/mid_ukm/example/offcanvas/css/style.css",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/mid_ukm/example/offcanvas/css/formulirpendaftaran.css",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/mid_ukm/example/offcanvas/css/formulirresep.css",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/pweb/tugas04/index.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/mid_ukm/example/offcanvas/css/offcanvas.css",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/pweb/tugas04/css/freelancer.css",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/pweb/tugas04/css/style.css",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/pweb/tugas02/css/style.css",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/mid_ukmtataboga/example/offcanvas/css/style.css",
+		"/C/Users/TOSHIBA SATELLITE/Downloads/bootstrap-3.3.7/docs/examples/carousel/index.html",
+		"/C/Users/TOSHIBA SATELLITE/Downloads/bootstrap-3.3.7/docs/examples/carousel/carousel.css",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/pweb/tugas03/css/style.css",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/tugas04/css/style.css",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/tugas04/asli.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/tugas04/index.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/pweb/tugas1/index.html",
+		"/C/Users/TOSHIBA SATELLITE/Downloads/Tugas 3/Tugas 3/css/style.css",
+		"/C/Users/TOSHIBA SATELLITE/Downloads/Tugas 3/Tugas 3/index.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/tugas03/css/style.css",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/tugas03/index.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/pweb/tugas02/index2.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/tugas02/css/style.css",
+		"/G/tugas2/index2.html",
+		"/G/tugas2/css/style.css",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/Proyek TIK/TIK - Copy/Mulo.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/pak oyan/index.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/tugas2/index.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/pak oyan/burungkakatua.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/pak oyan/kelinciku.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/pak oyan/naikdelman.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/pak oyan/menanamjagung.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/pak oyan/bintangkecil.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/index.html",
+		"/C/Users/TOSHIBA SATELLITE/Desktop/selvy/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ht",
+			"href",
+			".",
+			".jum",
+			"<div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\"",
+			"about",
+			"glyphicon",
+			"link",
+			"id",
+			"ukm",
+			"col",
+			"img",
+			"lagu anak-an",
+			"hr class",
+			"abou",
+			"contact",
+			"about",
+			"footer",
+			"about",
+			"jpg",
+			"gambar",
+			"+\t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "header.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
