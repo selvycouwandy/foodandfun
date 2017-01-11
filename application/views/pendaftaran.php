@@ -56,7 +56,7 @@
             <div class="col-lg-8 col-md-push-2">            <br><hr>
             <h1> Contact Us</h1>
             <p> <a href="http://www.kharisma.ac.id/" target="_blank">STMIK KHARISMA</a></p>
-      <p><a href="https://www.facebook.com/stmikkharismamks" target="_blank">Facebook</a> Fan Page STMIK KHARISMA</p>
+      <p><a href="https://www.facebook.com/stmikkharismamks" target="_blank">Facebook </a> Fan Page STMIK KHARISMA</p>
       </div>
 
       <div class="portfolio-modal modal fade" id="login" tabindex="-1" role="dialog" aria-hidden="true">
