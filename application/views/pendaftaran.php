@@ -6,10 +6,15 @@
       <div class="col-md-6 col-md-push-3">
       <h2 class="section-heading">Portfolio</h2>
 
-        <form class="form-signin">
+        <form class="form-signin" action="<?=base_url()?>prosespendaftaran" method="post">
         <br><br><br>
           <h2 class="form-signin-heading">Formulir pendaftaran</h2>
           <br>
+          <br>
+
+        <h4>Nama lengkap :</h4>
+        <label for="inputNama" class="sr-only">Nama Lengkap</label>
+          <input type="nama" id="inputNama" class="form-control" placeholder="Nama Lengkap" name="namalengkap" required autofocus>
           <br>
 
         <h4>Nim :</h4>
@@ -17,38 +22,31 @@
         <input type="nim" id="inputNim" class="form-control" placeholder="Nim" name="nim" required>
         <br>
 
+        
+
         <h4>Username :</h4>
         <label for="inputUsername" class="sr-only">Username</label>
         <input type="username" id="inputUsername" class="form-control" placeholder="Username" name="username" required>
         <br>
 
-
-        <h4>Nama lengkap :</h4>
-        <label for="inputNama" class="sr-only">Nama Lengkap</label>
-          <input type="nama" id="inputNama" class="form-control" placeholder="Nama Lengkap" required autofocus>
-          <br>
-
-        <h4>Tanggal lahir :</h4>
-        <label for="inputTanggallahir" class="sr-only">Tanggal Lahir</label>
-          <input type="Tanggallahir" id="inputPassword" class="form-control" placeholder="Tanggal lahir" required>
-          <br>
+       
 
         <h4>Alamat :</h4>
         <label for="inputAlamat" class="sr-only">Alamat</label>
-          <input type="alamat" id="inputPassword" class="form-control" placeholder="Alamat" required>
+          <input type="alamat" id="inputPassword" class="form-control" placeholder="Alamat" name="alamat" required>
           <br>
 
         <h4>No. Telepon / HP :</h4>
         <label for="inputNotlp" class="sr-only">No. Telepon</label>
-          <input type="notlp" id="inputPassword" class="form-control" placeholder="No. Telepon" required>
+          <input type="notlp" id="inputPassword" class="form-control" placeholder="No. Telepon" name="telepon" required>
           <br>
 
         <h4>Email :</h4>
         <label for="inputEmail" class="sr-only">Email address</label>
-          <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required >
+          <input type="email" id="inputEmail" class="form-control" placeholder="Email address" name="email" required >
           <br>
 
-          <button class="btn btn-lg btn-primary" type="submit">Daftar  <span class=" glyphicon glyphicon-ok-circle"></span></button>
+          <button class="btn btn-lg btn-primary" type="submit" >Daftar  <span class=" glyphicon glyphicon-ok-circle"></span></button>
 
       </form>
       </div>

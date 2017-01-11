@@ -1,8 +1,13 @@
 <?php
+
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class pendaftaran extends CI_Controller {
+class Pendaftaran extends CI_Controller {
 
+	public function __construct(){
+		parent:: __construct();
+		$this->load->model('daftar_model');
+	}
 
 	public function index()
 	{
@@ -11,4 +16,11 @@ class pendaftaran extends CI_Controller {
 		$this->load->view('pendaftaran');
 		$this->load->view('templates/footer');
 	}
+
+	public function prosespendaftaran(){
+//		var_dump($this->input->post('namalengkap'));
+		$this->daftar_model->insert_user();
+		redirect(base_url());
+	}
+	
 }
