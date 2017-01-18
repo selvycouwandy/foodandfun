@@ -25,7 +25,7 @@
                         <a href="pendaftaran">Pendaftaran</a>
                     </li>
                     <li>
-                        <a href="kontak">Contact</a>
+                        <a href="Kontak">Kontak</a>
                     </li>
                   </ul>
 

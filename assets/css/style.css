@@ -11,30 +11,13 @@
 
 body
 {
- 
-  	font-family: helvetica,arial;
-  	background: linear-gradient(to right,#818181,#ac8274,#988274);
-
+	font-family: helvetica,arial;
+	background: linear-gradient(to right, #818181, #ac8274, #988274);
+	
 }
 
 .jumbotron
 {
-	background: linear-gradient(to right,#818181,#ac8274,#988274);
-	text-align: center;
+	background: linear-gradient(to right, #818181, #ac8274, #988274);
 
-}
-h2
-{
-  font-weight: bold;
-  text-shadow: 1.2px 1.2px #818181;
-  outline-style: dashed;
-    outline-color: #d0a6cf;
-    outline-width: thick;
-    font-family: "Trebuchet MS" "Arial Black" sans-serif;
-}
-
-p
-{
-  font-family:arial;
-  font-size: 14px;
 }

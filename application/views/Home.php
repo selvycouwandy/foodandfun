@@ -11,7 +11,7 @@
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Kegiatan</button>
           </p>
           <div class="jumbotron">
-            <h1><span class=" glyphicon glyphicon-ice-lolly"></span>food & fun<span class=" glyphicon glyphicon-ice-lolly-tasted"></h1>
+            <h1><center><span class=" glyphicon glyphicon-ice-lolly"></span>food & fun <span class=" glyphicon glyphicon-ice-lolly-tasted"></center></h1>
            
           </div>
           <br>
@@ -40,7 +40,14 @@
               <a name='form'></a>
             
 
+            </div><!--/.col-xs-6.col-lg-4-->
+            <div class="col-xs-6 col-lg-4">
+              <h2>Formulir pedaftaran <span class=" glyphicon glyphicon-pencil"></span></h2>
+              <p>Anda dapat menjadi anggota di ukm ini dengan mendaftarkan diri anda disini</p> </p>
+              <br>
+              <p><a class="btn btn-default" href="pendaftaran">
             
+              <span class=" glyphicon glyphicon-chevron-right"></span>here<span class=" glyphicon glyphicon-chevron-left"></span></a></p>
 
 
               
