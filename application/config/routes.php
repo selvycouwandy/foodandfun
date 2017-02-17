@@ -3,11 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 
-$route['default_controller'] = 'home';
-$route['resep'] = 'resep';
-$route['pendaftaran'] = 'pendaftaran';
-$route['prosespendaftaran'] = 'pendaftaran/prosespendaftaran';
-$route['kontak'] = 'kontak';
+
 
 
 $route['404_override'] = '';
