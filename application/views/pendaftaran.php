@@ -1,10 +1,9 @@
 
     <!-- Header -->                    
-            </div>
+
     <div class="container">
 
       <div class="col-md-6 col-md-push-3">
-      <h2 class="section-heading">Portfolio</h2>
 
         <form class="form-signin" action="<?=base_url()?>prosespendaftaran" method="post">
         <br><br><br>
@@ -14,31 +13,31 @@
 
         <h4>Nama lengkap :</h4>
         <label for="inputNama" class="sr-only">Nama Lengkap</label>
-          <input type="nama" id="inputNama" class="form-control" placeholder="Nama Lengkap" name="namalengkap" required autofocus>
+          <input type="text" id="inputNama" class="form-control" placeholder="Nama Lengkap" name="namalengkap" required autofocus>
           <br>
 
         <h4>Nim :</h4>
-        <label for="inputNim" class="sr-only">Nim</label>
-        <input type="nim" id="inputNim" class="form-control" placeholder="Nim" name="nim" required>
+        <label for="inputnim" class="sr-only">Nim</label>
+        <input type="text" class="form-control" placeholder="Nim" name="nim" id="inputnim" required>
         <br>
-
+    <p id="warning_nim"> </p>
         
-
-        <h4>Username :</h4>
-        <label for="inputUsername" class="sr-only">Username</label>
-        <input type="username" id="inputUsername" class="form-control" placeholder="Username" name="username" required>
+        <h4>Tanggal Lahir :</h4>
+        <label for="inputtanggal" class="sr-only">Tanggal Lahir</label>
+        <input type="text" id="inputTanggal" class="form-control" placeholder="ex: 25-04-1996" name="tanggallahir" required>
         <br>
 
-       
+
+
 
         <h4>Alamat :</h4>
         <label for="inputAlamat" class="sr-only">Alamat</label>
-          <input type="alamat" id="inputPassword" class="form-control" placeholder="Alamat" name="alamat" required>
+          <input type="text" id="inputPassword" class="form-control" placeholder="Alamat" name="alamat" required>
           <br>
 
         <h4>No. Telepon / HP :</h4>
         <label for="inputNotlp" class="sr-only">No. Telepon</label>
-          <input type="notlp" id="inputPassword" class="form-control" placeholder="No. Telepon" name="telepon" required>
+          <input type="text" id="inputPassword" class="form-control" placeholder="No. Telepon" name="telepon" required>
           <br>
 
         <h4>Email :</h4>
@@ -53,64 +52,17 @@
     </div> <!-- /container -->
     <br><br>
   
-            <div class="col-lg-8 col-md-push-2">            <br><hr>
-            <h1> Contact Us</h1>
-            <p> <a href="http://www.kharisma.ac.id/" target="_blank">STMIK KHARISMA</a></p>
-      <p><a href="https://www.facebook.com/stmikkharismamks" target="_blank">Facebook </a> Fan Page STMIK KHARISMA</p>
-      </div>
+<footer>
+  <hr>
+  <div class= "col-lg-8">
+    <h1> Contact Us</h1>
+    <p> <a href="http://www.kharisma.ac.id/" target="_blank">STMIK KHARISMA</a>
+    <a href="https://www.facebook.com/stmikkharismamks" target="_blank">Facebook</a> Fan Page STMIK KHARISMA</p>
+  </div>
+    <p>&copy; 2016 Company, Inc.</p>
+</footer>
 
-      <div class="portfolio-modal modal fade" id="login" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h4 class="modal-title" id="exampleModalLabel">Sign In</h4>
-                                </div>
-
-                                  <div class="modal-body">
-                                    <form>
-                                      <div class="form-group">
-                                        <div class="form-group">
-
-                             
-                                      <label for="email" class="cols-sm-2 control-label">Your Email</label>
-                                      <div class="cols-sm-10">
-                                        <div class="input-group">
-                                          <span class="input-group-addon"><i class="fa fa-envelope fa" aria-hidden="true"></i></span>
-                                          <input type="text" class="form-control" name="email" id="email"  placeholder="Enter your Email"/>
-                                        </div>
-                                      </div>
-                                    </div>
-
-          
-                                    <label for="password" class="cols-sm-2 control-label">Password</label>
-                                    <div class="cols-sm-10">
-                                      <div class="input-group">
-                                        <span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
-                                        <input type="password" class="form-control" name="password" id="password"  placeholder="Enter your Password"/>
-                                      </div>
-                                    </div>
-                                  </div>
-
-                                  <div class="modal-footer">
-                                    <button class="btn btn-primary" type="submit">Sign In</button>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
+<script src="<?= base_url()?>assets/js/ajax.js"></script>
 
  
+
