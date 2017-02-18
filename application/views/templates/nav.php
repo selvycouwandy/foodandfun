@@ -28,14 +28,11 @@
                         <a href="<?=base_url()?>kontak">Contact</a>
                     </li>
                   </ul>
-
+            
                     <ul class="nav navbar-nav navbar-right">
-                    <li>
-                    <a href="#login" class="portfolio-link" data-toggle="modal">
-                    Admin
-                    </a>
-
-                    </li>
+                        <li>
+                            <a href="<?=base_url()?>admin">Admin</a>
+                        </li>
                     </ul>
              
 
