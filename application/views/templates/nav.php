@@ -16,16 +16,16 @@
           <ul class="nav navbar-nav navbar-left">
 
                     <li>
-                        <a href="Home">Home</a>
+                        <a href="<?=base_url()?>Home">Home</a>
                     </li>
                     <li>
-                        <a href="resep">Resep makanan</a>
+                        <a href="<?=base_url()?>resep">Resep makanan</a>
                     </li>
                     <li>
-                        <a href="pendaftaran">Pendaftaran</a>
+                        <a href="<?=base_url()?>pendaftaran">Pendaftaran</a>
                     </li>
                     <li>
-                        <a href="kontak">Contact</a>
+                        <a href="<?=base_url()?>kontak">Contact</a>
                     </li>
                   </ul>
 
