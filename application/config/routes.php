@@ -8,7 +8,10 @@ $route['resep'] = 'resep';
 $route['pendaftaran'] = 'pendaftaran';
 $route['prosespendaftaran'] = 'pendaftaran/prosespendaftaran';
 $route['kontak'] = 'kontak';
+$route['tambahkontak'] = 'crud_kontak';
+$route['f_kontak'] = 'f_kontak';
 $route['anggota'] = 'anggota';
+
 
 
 $route['admin'] = 'admin';
@@ -16,6 +19,7 @@ $route['admin/login'] = 'admin/aksi_login';
 $route['admin/logout'] = 'admin/logout';
 $route['admin_home'] = 'admin_home';
 $route['admin_resep'] = 'admin_resep';
+$route['admin_resep/tambah'] = 'admin_resep/tambah';
 $route['admin_anggota'] = 'admin_anggota';
 
 
