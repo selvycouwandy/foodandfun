@@ -1,14 +1,15 @@
 <?php
-
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Pendaftaran extends CI_Controller {
+class pendaftaran extends CI_Controller {
 
-	public function __construct(){
-		parent:: __construct();
+	public function __construct()
+	{
+		parent::__construct();
 		$this->load->model('daftar_model');
+        $this->load->helper('url');
 	}
-
+	
 	public function index()
 	{
 		$this->load->view('templates/header');
@@ -16,11 +17,22 @@ class Pendaftaran extends CI_Controller {
 		$this->load->view('pendaftaran');
 		$this->load->view('templates/footer');
 	}
-
-	public function prosespendaftaran(){
-//		var_dump($this->input->post('namalengkap'));
-		$this->daftar_model->insert_user();
-		redirect(base_url());
-	}
 	
+	public function prosespendaftaran(){
+		$namalengkap = $this->input->post('namalengkap');
+		$telepon = $this->input->post('telepon');
+		$alamat = $this->input->post('alamat');
+		$nim = $this->input->post('nim');
+		$email = $this->input->post('email');
+
+		$data = array(
+			'namalengkap' => $namalengkap,
+			'telepon' => $telepon,
+			'alamat' => $alamat,
+			'nim' => $nim,
+			'email' => $email
+			);
+		$this->daftar_model->input_data($data,'pendaftaran');
+		redirect('Home');
+	}
 }

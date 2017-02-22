@@ -7,13 +7,16 @@
             <div class="bs-example">
             <fieldset>
                 <div class="form-group">
-                    <label class="col-lg-2 control-label">Tanggal</label>
+                    <h4><label class="col-lg-2 control-label">Tanggal</label></h4>
                     <div class="col-lg-5">
                         <input required="required" type="text" name="tanggal" class="form-control" placeholder="Tanggal">
                     </div>
 
+                <br>
+                <br>
+
                 <div class="form-group">
-                    <label class="col-lg-2 control-label">Kegiatan</label>
+                    <h4><label class="col-lg-2 control-label">Kegiatan</label></h4>
                     <div class="col-lg-5">
                         <input required="required" type="text" name="kegiatan" class="form-control" placeholder="Acara">
                     </div>
