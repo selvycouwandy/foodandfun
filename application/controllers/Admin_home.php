@@ -23,7 +23,9 @@ class Admin_home extends CI_Controller {
 
 	function tambah()
 	{
+	$this->load->view('templates/header');
 	$this->load->view('t_kegiatan');
+	$this->load->view('templates/footer.php');	
 	}
 
 	function tambah_aksi()
