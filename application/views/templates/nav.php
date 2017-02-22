@@ -16,25 +16,28 @@
           <ul class="nav navbar-nav navbar-left">
 
                     <li>
-                        <a href="<?=base_url()?>Home">Home</a>
+                        <a href="Home">Home</a>
                     </li>
                     <li>
-                        <a href="<?=base_url()?>resep">Resep makanan</a>
+                        <a href="resep">Resep makanan</a>
                     </li>
                     <li>
-                        <a href="<?=base_url()?>pendaftaran">Pendaftaran</a>
+                        <a href="pendaftaran">Pendaftaran</a>
                     </li>
                     <li>
-                        <a href="<?=base_url()?>kontak">Contact</a>
+                        <a href="Anggota">Anggota</a>
+                    </li>
+                    <li>
+                        <a href="Kontak">Contact</a>
                     </li>
                   </ul>
-            
+
+
                     <ul class="nav navbar-nav navbar-right">
                         <li>
-                            <a href="<?=base_url()?>admin">Admin</a>
+                            <a href="admin">Admin</a>
                         </li>
                     </ul>
-             
 
 
             </div>
