@@ -21,7 +21,7 @@ class Daftar_model extends CI_Model{
 		$this->db->insert('pendaftaran', $data);
 	}
 
-
+	 
     public function nim_sudah_terdaftar( $nim ){
         $query = $this->db->get_where( 'pendaftaran', array( 'nim' => $nim) );
         if( !empty( $query->row_array() ) ) {
@@ -33,7 +33,8 @@ class Daftar_model extends CI_Model{
     function tampil_info(){
 		return $this->db->get('pendaftaran');
 	}
-function tampil_kontak(){
+
+	function tampil_kontak(){
 		return $this->db->get('kontak');
 	}
 
