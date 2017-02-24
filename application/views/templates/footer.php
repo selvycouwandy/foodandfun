@@ -15,7 +15,7 @@
     <!-- Theme JavaScript -->
     <script src="<?php echo base_url('assets/js/agency.min.js'); ?>"></script>
     
-    <script src="<?php echo base_url('assets/js/ajax.js'); ?>"></script>
+    <script src="<?php echo base_url('assets/js/ajax7.js'); ?>"></script>
 
 </body>
 
