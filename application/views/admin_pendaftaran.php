@@ -2,7 +2,7 @@
     <div class="container">
 
    		<div class="col-md-12 row text-left">
-          <h2 class="text-center">Pendaftaran<span class=" glyphicon glyphicon-flag"></span></h2> <br>
+          <h2 class="text-center">Anggota<span class=" glyphicon glyphicon-flag"></span></h2> <br>
           <table class="table">
             <thead>
             <tr>
