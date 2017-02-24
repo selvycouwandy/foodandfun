@@ -17,19 +17,11 @@
           <br>
 
         <h4>Nim :</h4>
-        <label for="inputnim" class="sr-only">Nim</label>
-        <input type="text" class="form-control" placeholder="Nim" name="nim" id="inputnim" required>
-        <br>
+        <label for="inputNim" class="sr-only">Nim</label>
+        <input type="text" class="form-control" placeholder="Nim" name="nim" id="nim" required>
     <p id="warning_nim"> </p>
-        
-        <h4>Tanggal Lahir :</h4>
-        <label for="inputtanggal" class="sr-only">Tanggal Lahir</label>
-        <input type="text" id="inputTanggal" class="form-control" placeholder="ex: 25-04-1996" name="tanggallahir" required>
         <br>
-
-
-
-
+        
         <h4>Alamat :</h4>
         <label for="inputAlamat" class="sr-only">Alamat</label>
           <input type="text" id="inputPassword" class="form-control" placeholder="Alamat" name="alamat" required>
@@ -45,7 +37,7 @@
           <input type="email" id="inputEmail" class="form-control" placeholder="Email address" name="email" required >
           <br>
 
-          <button class="btn btn-lg btn-primary" type="submit" >Daftar  <span class=" glyphicon glyphicon-ok-circle"></span></button>
+          <button id="btn_submit_pendaftaran" class="btn btn-lg btn-primary" type="submit" >Daftar  <span class=" glyphicon glyphicon-ok-circle"></span></button>
 
       </form>
       </div>
@@ -62,9 +54,6 @@
     <p>&copy; 2016 Company, Inc.</p>
 </footer>
 
-<script src="<?= base_url()?>assets/js/ajax.js"></script>
+
 
  
-
-
-
