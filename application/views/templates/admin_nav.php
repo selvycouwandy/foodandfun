@@ -10,7 +10,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="Home"><span class=" glyphicon glyphicon-grain"></span>Welcome !</a>
+          <a class="navbar-brand" href="#"><span class=" glyphicon glyphicon-grain"></span>Welcome !</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-left">
@@ -23,7 +23,10 @@
                     </li>
                     <li>
                         <a href="<?= base_url()?>admin_kontak">Contact</a>
-                    </li>                   
+                    </li>
+                    <li>
+                        <a href="<?= base_url()?>admin_pendaftaran">Pendaftaran</a>
+                    </li>                         
                   </ul>
 
                     <ul class="nav navbar-nav navbar-right">
