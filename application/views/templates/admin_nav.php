@@ -25,7 +25,7 @@
                         <a href="<?= base_url()?>admin_kontak">Contact</a>
                     </li>
                     <li>
-                        <a href="<?= base_url()?>admin_pendaftaran">Pendaftaran</a>
+                        <a href="<?= base_url()?>admin_pendaftaran">Anggota</a>
                     </li>                         
                   </ul>
 
