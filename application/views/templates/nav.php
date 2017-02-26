@@ -10,26 +10,21 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="Home"><span class=" glyphicon glyphicon-grain"></span>Welcome !</a>
+          <a class="navbar-brand" href="#"><span class=" glyphicon glyphicon-grain"></span>Welcome !</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-left">
 
                     <li>
-                        <a href="Home">Home</a>
+                        <a href="<?= base_url()?>Home">Home</a>
                     </li>
                     <li>
-                        <a href="resep">Resep makanan</a>
+                        <a href="<?= base_url()?>resep1">Resep makanan</a>
                     </li>
                     <li>
-                        <a href="pendaftaran">Pendaftaran</a>
+                        <a href="<?= base_url()?>pendaftaran">Pendaftaran</a>
                     </li>
-                    <li>
-                        <a href="Anggota">Anggota</a>
-                    </li>
-                    <li>
-                        <a href="Kontak">Contact</a>
-                    </li>
+                    
                   </ul>
 
 
