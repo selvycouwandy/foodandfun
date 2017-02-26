@@ -19,7 +19,7 @@
                         <a href="<?= base_url()?>admin_home">Home</a>
                     </li>
                     <li>
-                        <a href="<?= base_url()?>admin_resep">Resep </a>
+                        <a href="<?= base_url()?>admin_resep1">Resep </a>
                     </li>
                     <li>
                         <a href="<?= base_url()?>admin_kontak">Contact</a>
