@@ -1,4 +1,4 @@
-
+	
 
     <!-- Navigation -->
     <nav class="navbar navbar-fixed-top navbar-inverse">
@@ -24,7 +24,12 @@
                     <li>
                         <a href="<?= base_url()?>pendaftaran">Pendaftaran</a>
                     </li>
-                    
+                    <li>
+                        <a href="<?= base_url()?>Anggota">Anggota</a>
+                    </li>
+                    <li>
+                        <a href="<?= base_url()?>Kontak">Contact</a>
+                    </li>
                   </ul>
 
 
